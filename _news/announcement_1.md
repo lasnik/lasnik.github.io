@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-05-01 12:00:00
 inline: true
 ---
 
-A simple inline announcement.
+Our <a href="https://lasnik.github.io/wsda/">paper</a> on learning cascaded detection tasks with weakly-supervised domain adaptation has been accepted to the IEEE Intelligent Vehicles Symposium 2021!

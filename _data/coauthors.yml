@@ -1,3 +1,14 @@
+"Gählert":
+  - firstname: ["Nils"]
+    url: https://dblp.org/pid/228/4662.html
+
+"Franke":
+  - firstname: ["Uwe"]
+
+"Denzler":
+  - firstname: ["Joachim"]
+    url: https://inf-cv.uni-jena.de/home/group/denzler/
+
 "Geiger":
   - firstname: ["Andreas"]
     url: https://cvlibs.net
@@ -6,8 +17,23 @@
   - firstname: ["Nick"]
     url: https://www.nick-schneider.me/
 
-"Franke":
-  - firstname: ["Uwe"]
+  - firstname: ["Lukas"]
+    url: https://scholar.google.de/citations?user=Vbk-QckAAAAJ&hl=de
+
+"Ortelt":
+  - firstname: ["Benedikt"]
+
+"Ding":
+  - firstname: "Shuxiao"
+    url: https://scholar.google.com/citations?user=QPLytlUAAAAJ&hl=en
+
+"Tan":
+  - firstname: "Andong"
+    url: https://scholar.google.com/citations?user=zt49vSoAAAAJ&hl=en
+
+"Tombari":
+  - firstname: ["Federico"]
+    url: https://federicotombari.github.io
 
 "Chitta": 
   - firstname: ["Kashyap"]
@@ -21,8 +47,33 @@
   - firstname: ["Apratim"]
     url: https://apratimbhattacharyya18.github.io/
 
-"Gählert":
-  - firstname: ["Nils"]
+"Cordts":
+  - firstname: ["Marius"]
+    url: https://scholar.google.com/citations?user=RM0ik8wAAAAJ&hl=en
 
-"Ortelt":
-  - firstname: ["Benedikt"]
+"Li":
+  - firstname: ["Peizheng"]
+    url: https://scholar.google.com/citations?user=SExOc74AAAAJ&hl=en
+
+"Chen":
+  - firstname: ["Xieyuanli"]
+    url: https://xieyuanli-chen.com
+
+"Gall":
+  - firstname: ["Jürgen"]
+    url: https://pages.iai.uni-bonn.de/gall_juergen/
+
+"Doll":
+  - firstname: ["Simon"]
+    url: https://simondoll.github.io
+
+"Schulz":
+  - firstname: ["Richard"]
+
+"Enzweiler":
+  - firstname: ["Markus"]
+    url: https://markus-enzweiler.de
+
+"Lensch":
+  - firstname: ["Hendrik P.A."]
+    url: https://scholar.google.com/citations?user=2R22h84AAAAJ&hl=en

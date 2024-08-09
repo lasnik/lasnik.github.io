@@ -1,79 +1,79 @@
-"Gählert":
+"gählert":
   - firstname: ["Nils"]
     url: https://dblp.org/pid/228/4662.html
 
-"Franke":
+"franke":
   - firstname: ["Uwe"]
 
-"Denzler":
+"denzler":
   - firstname: ["Joachim"]
     url: https://inf-cv.uni-jena.de/home/group/denzler/
 
-"Geiger":
+"geiger":
   - firstname: ["Andreas"]
     url: https://cvlibs.net
 
-"Schneider":
+"schneider":
   - firstname: ["Nick"]
     url: https://www.nick-schneider.me/
 
   - firstname: ["Lukas"]
     url: https://scholar.google.de/citations?user=Vbk-QckAAAAJ&hl=de
 
-"Ortelt":
+"ortelt":
   - firstname: ["Benedikt"]
 
-"Ding":
+"ding":
   - firstname: "Shuxiao"
     url: https://scholar.google.com/citations?user=QPLytlUAAAAJ&hl=en
 
-"Tan":
+"tan":
   - firstname: "Andong"
     url: https://scholar.google.com/citations?user=zt49vSoAAAAJ&hl=en
 
-"Tombari":
+"tombari":
   - firstname: ["Federico"]
     url: https://federicotombari.github.io
 
-"Chitta": 
+"chitta":
   - firstname: ["Kashyap"]
     url: https://kashyap7x.github.io/
 
-"Renz":
+"renz":
   - firstname: ["Katrin"]
     url: https://www.katrinrenz.de/
 
-"Bhattacharyya":
+"bhattacharyya":
   - firstname: ["Apratim"]
     url: https://apratimbhattacharyya18.github.io/
 
-"Cordts":
+"cordts":
   - firstname: ["Marius"]
     url: https://scholar.google.com/citations?user=RM0ik8wAAAAJ&hl=en
 
-"Li":
+"li":
   - firstname: ["Peizheng"]
     url: https://scholar.google.com/citations?user=SExOc74AAAAJ&hl=en
 
-"Chen":
+"chen":
   - firstname: ["Xieyuanli"]
     url: https://xieyuanli-chen.com
 
-"Gall":
+"gall":
   - firstname: ["Jürgen"]
     url: https://pages.iai.uni-bonn.de/gall_juergen/
 
-"Doll":
+"doll":
   - firstname: ["Simon"]
     url: https://simondoll.github.io
 
-"Schulz":
+"schulz":
   - firstname: ["Richard"]
 
-"Enzweiler":
+"enzweiler":
   - firstname: ["Markus"]
     url: https://markus-enzweiler.de
 
-"Lensch":
+"lensch":
   - firstname: ["Hendrik P.A."]
     url: https://scholar.google.com/citations?user=2R22h84AAAAJ&hl=en

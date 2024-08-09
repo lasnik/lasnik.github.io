@@ -47,7 +47,15 @@
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    <div class="title">
+      {% if entry.presentation_type %}
+        <abbr class="badge" style="background-color: var(--global-theme-color);">
+          {{ entry.presentation_type }}
+        </abbr>
+        &nbsp;
+      {% endif %}
+      {{ entry.title }}
+    </div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -179,7 +187,9 @@
       {{ periodical | strip }}
     </div>
     <div class="periodical">
-      {{ entry.note | strip }}
+      <em>
+        {{ entry.note | strip }}
+      </em>
     </div>
 
     <!-- Links/Buttons -->

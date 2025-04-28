@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student | machine learning, vision and robotics
+subtitle: machine learning scientist | computer vision and robotics
 
 profile:
   align: right
@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student with the Scene Understanding Group at [Mercedes-Benz R&D](https://www.mercedes-benz.com/de/), as well as the [University of Tübingen](https://uni-tuebingen.de/en) and the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), where I am advised by [Prof. Andreas Geiger](https://cvlibs.net/).
+I am a machine learning scientist with the Scene Understanding Group at [Mercedes-Benz R&D](https://www.mercedes-benz.com/de/), where I work as a tech lead on both pre-development of next-gen ADAS functions as well as AI research for automated driving. Previously I was a PhD student with the same group, as well as the [University of Tübingen](https://uni-tuebingen.de/en) and the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), where I was advised by [Prof. Andreas Geiger](https://cvlibs.net/).
 
-Previously I was a master's student at the [Karlsruhe Institute of Technology](https://www.kit.edu/english/), where I completed my master's thesis at the [Department of Measurement and Control](https://www.mrt.kit.edu/english/index.php), supervised by [Prof. Christoph Stiller](https://www.mrt.kit.edu/english/mitarbeiter_stiller.php).
+Before my graduate studies, I was a master's student at the [Karlsruhe Institute of Technology](https://www.kit.edu/english/), where I completed my master's thesis at the [Department of Measurement and Control](https://www.mrt.kit.edu/english/index.php), supervised by [Prof. Christoph Stiller](https://www.mrt.kit.edu/english/mitarbeiter_stiller.php).
 
 My research interests lie at the intersection of machine learning, robotics and computer vision. In particular, I am interested in learning robust representations for perception and planning from simulation.
